@@ -6,7 +6,7 @@ The objective of this code is to analyze the data associated three different ECG
 Where RR is the distance between consecutive R-peaks in QRS complexes of an ECG.
 
 
-Results
+## Results
 
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/954db25e-0de9-4907-ac9a-d50d677481b0)
 
@@ -39,7 +39,7 @@ Figure 6:  Heart rate and heart rate variability calculations for each signal
 
 
 
-References and Credits
+## References and Credits
 
 Generative AI was used to supplement code. 
 The adaptive thresholding code to find R-peaks was adapted from an external source [2].
