@@ -12,27 +12,27 @@ Where RR is the distance between consecutive R-peaks in QRS complexes of an ECG.
 
 Figure 1: Unfiltered signals with R-peaks marked
 
---
+
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/9ab298ba-0a8d-4ec4-8a25-7af5a308d097)
 
 Figure 2:  Normal Heartbeat segment isolation and windowing with zero padding.
 
---
+
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/7ac706b8-747c-4342-8ad8-b8315d0b0276)
 
 Figure 3:  FFT of Normal Heartbeat segment
 
---
+
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/ac46aed2-2a70-4fef-9b08-5fdefd8f36d2)
 
 Figure 4:  Unfiltered signals compared to the result of a 5-step filtering process form Pan-Tompkins [1]
 
---
+
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/e3881af4-5ad0-4824-878e-37d22a3aa0c0)
 
 Figure 5:  R-Peak detection using adaptive thresholding on filtered signals
 
---
+
 ![image](https://github.com/Ekin-Deren-Yelken/ECG_Analysis/assets/128660105/76a4c093-6e26-423b-a9b4-26f95b9d911c)
 
 Figure 6:  Heart rate and heart rate variability calculations for each signal
